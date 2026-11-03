@@ -379,3 +379,5 @@ a.zoom:hover img { border-color: var(--accent); }
 @media (max-width: 760px) { .prow-grid { grid-template-columns: 1fr; } }
 .wide-fig .row-label { text-transform: none; letter-spacing: 0; font-family: var(--body); font-size: 15px; font-weight: 650; }
 .chapter .facts { margin-top: 0; }
+.tagline .role { display: block; }
+.tagline .skills { display: block; margin-top: 4px; font-size: 16px; font-weight: 500; color: var(--muted); }
